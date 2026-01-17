@@ -1,4 +1,9 @@
 # 2025-ICD
+## Paper
+**High-throughput screening system for immunogenic cell death inducers using artificial intelligence-based real-time image analysis**  
+Computers in Biology and Medicine (2025). https://doi.org/10.1016/j.compbiomed.2025.110727
+
+
 ## How to run
 ### 1. Provide execution permissions to the shell script files
 ```
